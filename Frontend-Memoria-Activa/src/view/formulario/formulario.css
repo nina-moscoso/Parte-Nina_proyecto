@@ -1,0 +1,71 @@
+.fon
+{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../../assets/imagenes/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.7;
+    display: flex;
+    justify-content: center;
+}
+.Registro{
+width: 30%;
+height: 80%;
+border-radius: 15px;
+background-color: #04b2e7;
+margin: auto;
+box-shadow: 7px 13px 37px #605f5fd2;
+padding: 20px 30px;
+border-top: 4px solid #08698fd9;
+color: black;
+
+}
+.ti{
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px ;
+    border-bottom: 1px solid ;
+    font-size: 20px;
+
+
+}
+.controles{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #017bab;
+    margin-bottom: 15px ;
+    padding: 11px 10px;
+    background: #ffffff;
+    font-size: 14px;
+}
+.boton{
+width: 100%;
+height: 40px;
+background: #017bab;
+border: none;
+border-radius: 5px;
+color: rgb(0, 0, 0);
+margin-bottom: 16px;
+
+
+}
+.cu{
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid;
+    
+
+}
+.enla{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+.enla:hover{
+    text-decoration: underline;
+}

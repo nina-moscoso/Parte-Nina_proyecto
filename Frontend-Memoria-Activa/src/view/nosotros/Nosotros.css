@@ -1,0 +1,77 @@
+.co-nosotros
+{
+    background:linear-gradient(#defdfd,#b9e6fd,#f7f5f5);
+    background-attachment: fixed;
+    margin-top: 5px;
+}
+.padre{
+    display: flex;
+}
+.ima-nosotros
+{
+    width: 40%;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.imn1
+{
+    width: 85%;
+    height: 92%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 0px grey;
+}
+.teo
+{
+    background: linear-gradient(#86e9f2,#c4f6f9,#8DA6A8);
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 70%;
+    width: 40%;
+    padding: 20px;
+    box-shadow: 5px 5px 5px 0px grey;   
+}
+.imagen2
+{
+    width: 90%;
+    height: 90%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 0px grey;
+}
+.tex3
+{
+    font-size: 20px;
+    text-align: justify;
+    padding: 35px;
+}
+.tit3
+{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+}
+.tito
+{
+    font-size:30px;
+    padding: 13px;
+    text-align: center;
+}
+.te1
+{
+    font-size: 20px;
+    text-align: justify;
+    padding: 25px;
+}
+
+.final
+{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.obj{
+    font-size: 20px;
+    padding: 20px;
+}

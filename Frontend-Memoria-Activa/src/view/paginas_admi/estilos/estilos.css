@@ -1,0 +1,239 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.admiHeader{
+    border: 1px solid   rgb(0, 0, 0);    
+    height: 12vh;
+    background-color: #107FE4;
+    width: 100%;    
+}
+.retroceder{
+    width: 5vh;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+.linea1{
+    width: 93.9%;
+    border: 1px solid black;
+}
+.linea2admi{
+    border-left: 1px solid rgb(0, 0, 0);
+    margin-left: 94%;
+    height: 12vh;
+    position: relative;
+    bottom: 101%;
+}
+.one{
+    border: 1px solid black;
+    font-size: 18px;
+    width: 15%;
+    height: 5vh;
+}
+.contenidoadmi{
+    margin-left: 35%;
+}
+
+.tituloadmi{
+    text-align: center;
+    font-size: 10px;
+    width: 90%;
+    margin-left: 5%;
+}
+.titulo1admi{
+    text-align: center;
+    font-size: 12px;
+    width: 90%;
+    margin-left: 5%;  
+}
+.contenido1admi{
+    height: 86vh;
+    width: 100%;
+    background-color: rgba(16, 127, 228, 0.14);
+    display: flex;
+}
+
+.ima2admi{
+margin-left: 30px;
+height: 4vh;
+width: 5vh;
+margin-top: 5%;
+
+}
+.imagenesadmi {
+    height: 8%;
+    width: 100%;
+    display: flex;
+    border-bottom: 1px solid black;
+}
+.nombreadmi {
+    margin-left: 10%;
+    margin-top: 9%;
+    height: 25%;
+}
+
+.contenedorima{
+    height: 5vh;
+    width: 50%;
+    margin-left: 25%;
+
+}
+.ima1admi{
+    height: 100%;
+    width: 100%;
+    margin-top: 5%;
+}
+.titulo2admi{
+    font-size: 90%;
+    border-bottom: 1px solid black;
+    height: 4%;
+    text-align: center;
+    padding-top: 20px;
+}
+.contenedro3admi{
+    width: 50%;
+    height: 80%;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.acti-admi{
+    border-top:none;
+    height: 100%;
+    border: 1px solid black;
+}
+.titulo3admi{
+    text-align: center;
+    border: 1px solid black;
+    border-bottom:none;
+}
+.tabla2admi{
+    width: 100%;
+    border-collapse: collapse;
+}
+.tabla2admi, .dosadmi, .tresadmi{
+    border: 1px solid black;
+}
+.dosadmi{
+    padding: 15px;
+    text-align: center;
+}
+.cuatroadmi{
+    padding: 15px;
+    text-align: left;
+    border: 1px solid black;
+}
+.cincoadmi{
+    padding: 15px;
+    text-align: center;
+    border: 1px solid black;
+}
+.seisadmi{
+    background-color: #10e42c7e;
+    margin-right: 4%;
+}
+.sieteadmi{
+    background-color: rgba(255, 0, 0, 0.589);
+}
+#agregaradmi{
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+    padding: 5px 5px;
+    margin: 10px;
+    color: black;
+    background-color: #10e45023;
+    margin-left: 25%;
+}
+.contenedor4admi{
+    border: 1px solid black;
+    border-top:none;
+}
+
+.table_faseadmi{
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 50%;
+    margin-top: 1%;
+}
+
+.casilla1admi,
+.casilla2admi {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+.fraseadmi {
+    border: 1px solid black;
+}
+
+
+.cuadroadmi {
+    width: 45%;
+    height: 60%;
+    background-color: #f0f0f0;
+    position: absolute;
+    left: 45px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 1px solid black;
+    align-items: center;
+}
+
+.DIA {
+    height: 40%;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.melo {
+    border-bottom: 1px solid black;
+    margin-left: 0%;
+    text-align: center;
+}
+
+.melo2 {
+    margin-top: 10%;
+    width: 30%;
+    margin: 0 auto;
+    position: relative;
+    top: 30%;
+}
+
+.frase4 {
+    position: relative;
+    border: 0px;
+    top: 80px;
+    width: 35%;
+    height: 5vh;
+    border-radius: 15px;
+    background-color: #107de446;
+}
+
+.autores {
+    width: 30%;
+    margin: 0 auto;
+    position: relative;
+    top: 200px;
+
+
+}
+
+.auto1 {
+    border: 0px;
+    border-radius: 15px;
+    position: relative;
+    top: 205px;
+    width: 35%;
+    height: 5vh;
+    background-color: #107de446;
+}
+
+.enviar {
+    margin-left: 45%;
+    margin-top: 20vh;
+    width: 70px;
+    height: 25;
+
+}

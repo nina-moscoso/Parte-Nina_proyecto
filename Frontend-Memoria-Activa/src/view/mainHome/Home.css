@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.home{
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.imag{
+    width: 30%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.abuelo{
+    width: 190%;
+    height: 190%;   
+}
+.conta{
+    width: 80%;
+    height: 80%;
+    margin-top: 20px;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#89c1f896,#b2d5f8b3,#afceeaa4);
+    -webkit-box-shadow: 0px 40px 76px 6px rgba(42, 42, 42, 0.528);
+    -moz-box-shadow: 0px 40px 76px 6px rgba(42, 42, 42, 0.528);
+    box-shadow: 0px 40px 76px 6px rgba(80, 80, 80, 0.528);
+}
+.informaci{
+    width: 40%;
+}
+.no{
+    color: #000000;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.te{
+    color: #181313;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 30px;
+}

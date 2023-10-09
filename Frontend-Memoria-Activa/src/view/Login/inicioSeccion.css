@@ -1,0 +1,106 @@
+.conte_login
+{
+    height: 100vh;
+    width: 100%;
+    background:linear-gradient(#D2f7ff,#9eecff,#47d5f9);
+}
+.co-login
+{
+    display: flex;
+    padding-top: 120px;
+    justify-content: center;
+}
+.im
+{
+    width: 30%; 
+    border-top-left-radius:20px;
+    border-end-start-radius:20px;
+    box-shadow: 0px 5px 10px 6px rgba(0, 0, 0, 0.668);
+    background-image: url(../../assets/imagenes/login.jpg);
+    background-size: cover;
+    opacity: 90%;
+}
+
+.login
+{
+    width: 30%;
+    height: 90%;
+    background:linear-gradient(#cadffb,#6a9cde);
+    border-top-right-radius:20px;
+    border-end-end-radius:20px;
+    box-shadow: 0px 5px 10px 6px rgba(0, 0, 0, 0.668);
+}
+.log
+{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding: 10px;
+}
+.format
+{
+    margin: 25px;
+    padding: 20px;
+}
+.cor
+{
+    display: flex;  
+}
+.usu
+{
+    width: 11%;
+    border-radius: 5px;
+    margin: 2px;
+}
+.nom
+{
+    width: 90%;
+    border-radius: 5px;
+}
+.cuenta
+{
+    width: 100%;
+    border-radius: 5px;
+    height: 35px;
+    box-shadow: 0px 2px 2px 2px grey;
+    background:linear-gradient(to right,#f0f5b1,#97eef9);
+}
+.cuenta:hover
+{
+    background: #30d7ed;
+}
+.registro
+{
+    height: 35px;
+    display: flex;
+    box-shadow: 0px 2px 2px 2px grey;
+    border-radius: 5px;
+}
+.google
+{
+    border-radius: 5px;
+}
+.ini
+{
+    width: 100%;
+    border-radius: 5px;
+    height: 35px;
+    background:linear-gradient(#c7e0f4,#d9e9f7);
+    box-shadow: 0px 2px 2px 2px grey;
+}
+.ini:hover
+{
+    background:rgb(137, 247, 247);
+}
+.bienvenida
+{
+    text-align: center;
+    color: white;
+    margin-top: 50%;
+    font-size: 40px;
+}
+.title-pro
+{
+    text-align: center;
+    font-size: 30px;
+}

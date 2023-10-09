@@ -1,0 +1,61 @@
+*
+{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+header{
+    height: 15vh;
+    width: 100%;
+    background-color: rgb(16, 181, 231);
+}
+.con{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.lo
+{
+    width:20%;
+    height: 100%;
+    text-align: end;
+}
+.marca
+{
+    width: 40%;
+    height: 115%;
+}
+.nav{
+    width: 60%;
+}
+.vista{
+    font-size: 18px;
+    margin: 10px;
+    padding: 13px;
+    display: flex;
+    justify-content: center;
+}
+.navegacion
+{
+    margin: 10px;
+    font-size: 20px;
+    list-style: none;
+}
+.na{
+    width: 20%;
+    font-size: 18px;
+    margin: 10px;
+    padding: 13px;
+    display: flex;
+    justify-content: center;
+}
+.vi
+{
+    display: flex;
+}
+.op{
+    color: rgb(254, 254, 255);
+}
+ .op:hover{
+    border-radius: 2px;
+    background: radial-gradient(rgba(198, 251, 245, 0.685), rgba(237, 248, 195, 0.713));
+}
